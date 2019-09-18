@@ -1,0 +1,204 @@
+checking:
+  checking_entity: [Cdr. Thomas Mathew, BCS]
+  checking_level: '3'
+dublin_core:
+  conformsto: rc0.2
+  contributor: [Cdr. Thomas Mathew, Dr. Bobby Chellappan, Hind Prakash, Shojo John]
+  creator: Door43 World Missions Community
+  description: An open-licensed translation, intended to provide a 'functional' understanding
+    of the Bible. It increases the translator's understanding of the text by translating
+    theological terms as descriptive phrases.
+  format: text/usfm
+  identifier: udb
+  issued: '2018-11-23'
+  language: {direction: ltr, identifier: gu, title: "\u0A97\u0AC1\u0A9C\u0AB0\u0ABE\
+      \u0AA4\u0AC0"}
+  modified: '2018-11-23'
+  publisher: Door43
+  relation: [gu/tn, gu/tq, gu/tw, gu/ulb]
+  rights: CC BY-SA 4.0
+  source:
+  - {identifier: udb, language: en, version: '11'}
+  subject: Bible
+  title: Gujarati Unlocked Dynamic Bible
+  type: bundle
+  version: '11.1'
+projects:
+- categories: [bible-nt]
+  identifier: 1co
+  path: ./47-1CO.usfm
+  sort: 46
+  title: "\u0A95\u0AB0\u0ABF\u0A82\u0AA5\u0AC0\u0A93\u0AA8\u0AC7 \u0AAA\u0AB9\u0AC7\
+    \u0AB2\u0ACB \u0AAA\u0AA4\u0ACD\u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 1jn
+  path: ./63-1JN.usfm
+  sort: 62
+  title: "\u0AAF\u0ACB\u0AB9\u0ABE\u0AA8\u0AA8\u0ACB \u0AAA\u0AB9\u0AC7\u0AB2\u0ACB\
+    \ \u0AAA\u0AA4\u0ACD\u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 1pe
+  path: ./61-1PE.usfm
+  sort: 60
+  title: "\u0AAA\u0ABF\u0AA4\u0AB0\u0AA8\u0ACB \u0AAA\u0AB9\u0AC7\u0AB2\u0ACB \u0AAA\
+    \u0AA4\u0ACD\u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 1th
+  path: ./53-1TH.usfm
+  sort: 52
+  title: "1 \u0AA5\u0AC7\u0AB8\u0ACD\u0AB8\u0AB2\u0ACB\u0AA8\u0ABF\u0A95\u0AC0\u0A93\
+    \u0AA8\u0AC7 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 1ti
+  path: ./55-1TI.usfm
+  sort: 54
+  title: "1 \u0AA4\u0ABF\u0AAE\u0ACB\u0AA5\u0AC0\u0AA8\u0AC7 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 2co
+  path: ./48-2CO.usfm
+  sort: 47
+  title: "\u0A95\u0AB0\u0ABF\u0A82\u0AA5\u0AC0\u0A93\u0AA8\u0AC7 \u0AAC\u0AC0\u0A9C\
+    \u0ACB \u0AAA\u0AA4\u0ACD\u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 2jn
+  path: ./64-2JN.usfm
+  sort: 63
+  title: "\u0AAF\u0ACB\u0AB9\u0ABE\u0AA8\u0AA8\u0ACB \u0AAC\u0AC0\u0A9C\u0ACB \u0AAA\
+    \u0AA4\u0ACD\u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 2pe
+  path: ./62-2PE.usfm
+  sort: 61
+  title: "\u0AAA\u0ABF\u0AA4\u0AB0\u0AA8\u0ACB \u0AAC\u0AC0\u0A9C\u0ACB \u0AAA\u0AA4\
+    \u0ACD\u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 2th
+  path: ./54-2TH.usfm
+  sort: 53
+  title: "2 \u0AA5\u0AC7\u0AB8\u0ACD\u0AB8\u0AB2\u0ACB\u0AA8\u0ABF\u0A95\u0AC0\u0A93\
+    \u0AA8\u0AC7 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 2ti
+  path: ./56-2TI.usfm
+  sort: 55
+  title: "2 \u0AA4\u0ABF\u0AAE\u0ACB\u0AA5\u0AC0\u0AA8\u0AC7 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: 3jn
+  path: ./65-3JN.usfm
+  sort: 64
+  title: "\u0AAF\u0ACB\u0AB9\u0ABE\u0AA8\u0AA8\u0ACB \u0AA4\u0ACD\u0AB0\u0AC0\u0A9C\
+    \u0ACB \u0AAA\u0AA4\u0ACD\u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: act
+  path: ./45-ACT.usfm
+  sort: 44
+  title: "\u0AAA\u0ACD\u0AB0\u0AC7\u0AB0\u0ABF\u0AA4\u0ACB\u0AA8\u0ABE\u0A82 \u0A95\
+    \u0ACD\u0AB0\u0AA4\u0ACD\u0AAF\u0ACB "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: col
+  path: ./52-COL.usfm
+  sort: 51
+  title: "\u0A95\u0AB2\u0ACB\u0AB8\u0AC0\u0A93\u0AA8\u0AC7 \u0AAA\u0AA4\u0ACD\u0AB0\
+    \ "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: eph
+  path: ./50-EPH.usfm
+  sort: 49
+  title: "\u0A8F\u0AAB\u0AC7\u0AB8\u0AC0\u0A93\u0AA8\u0AC7 \u0AAA\u0AA4\u0ACD\u0AB0\
+    \ "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: gal
+  path: ./49-GAL.usfm
+  sort: 48
+  title: "\u0A97\u0AB2\u0ABE\u0AA4\u0AC0\u0A93\u0AA8\u0AC7 \u0AAA\u0AA4\u0ACD\u0AB0\
+    \ "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: heb
+  path: ./59-HEB.usfm
+  sort: 58
+  title: "\u0AB9\u0ABF\u0AAC\u0ACD\u0AB0\u0AC2\u0A93\u0AA8\u0AC7 \u0AAA\u0AA4\u0ACD\
+    \u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: jas
+  path: ./60-JAS.usfm
+  sort: 59
+  title: "\u0AAF\u0ABE\u0A95\u0AC2\u0AAC\u0AA8\u0ACB \u0AAA\u0AA4\u0ACD\u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: jhn
+  path: ./44-JHN.usfm
+  sort: 43
+  title: "\u0AAF\u0ACB\u0AB9\u0ABE\u0AA8 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: jud
+  path: ./66-JUD.usfm
+  sort: 65
+  title: "\u0AAF\u0AB9\u0AC2\u0AA6\u0ABE\u0AA8\u0ACB \u0AAA\u0AA4\u0ACD\u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: luk
+  path: ./43-LUK.usfm
+  sort: 42
+  title: "\u0AB2\u0AC2\u0A95 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: mrk
+  path: ./42-MRK.usfm
+  sort: 41
+  title: "\u0AAE\u0ABE\u0AB0\u0ACD\u0A95 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: mat
+  path: ./41-MAT.usfm
+  sort: 40
+  title: "\u0AAE\u0ABE\u0AA5\u0ACD\u0AA5\u0AC0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: phm
+  path: ./58-PHM.usfm
+  sort: 57
+  title: "\u0AAB\u0ABF\u0AB2\u0AC7\u0AAE\u0ACB\u0AA8\u0AA8\u0AC7 \u0AAA\u0AA4\u0ACD\
+    \u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: php
+  path: ./51-PHP.usfm
+  sort: 50
+  title: "\u0AAB\u0ABF\u0AB2\u0ABF\u0AAA\u0AC0\u0A93\u0AA8\u0AC7 \u0AAA\u0AA4\u0ACD\
+    \u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: rev
+  path: ./67-REV.usfm
+  sort: 66
+  title: "\u0AAA\u0ACD\u0AB0\u0A95\u0A9F\u0AC0\u0A95\u0AB0\u0AA3 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: rom
+  path: ./46-ROM.usfm
+  sort: 45
+  title: "\u0AB0\u0ACB\u0AAE\u0AA8\u0ACB\u0AA8\u0AC7 \u0AAA\u0AA4\u0ACD\u0AB0 "
+  versification: ufw
+- categories: [bible-nt]
+  identifier: tit
+  path: ./57-TIT.usfm
+  sort: 56
+  title: "\u0AA4\u0ABF\u0AA4\u0AB8\u0AA8\u0A82 \u0AAA\u0AA4\u0ACD\u0AB0 "
+  versification: ufw
